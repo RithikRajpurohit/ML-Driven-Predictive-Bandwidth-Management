@@ -4,8 +4,8 @@
 ### AAA College of Engineering and Technology
 
 By
-✓ \[Rithik K]
-✓ \[Pruthiv Raman K ]
+1. Rithik K
+2. Pruthiv Raman K 
 
 ---
 
